@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import inventorize as ivt
 import plotly.express as px
-import matplotlib.pyplot as plt
 
 st.title("Segmentation")
 st.write("You can use this app to explore and perform abc analysis on your data set")
